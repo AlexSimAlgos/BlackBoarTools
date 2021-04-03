@@ -3,7 +3,6 @@ import requests
 import re
 import json
 import pandas as pd
-import tabulate
 pd.set_option("max_rows", None)
 
 
